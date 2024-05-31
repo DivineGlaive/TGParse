@@ -25,9 +25,20 @@ jobs:
         cp splitted/mixed ./archives/$(date +'%Y%m')/$(date +'%Y-%m-%d_%H-%M-%S')/
         cp telegramchannels.json ./archives/channels/$(date +'%Y%m')/$(date +'%Y-%m-%d_%H-%M-%S')/
         > configtg.txt
+        > python/hy2
+        > python/hysteria
+        > python/hysteria2
+        > python/naive
+        > python/socks
+        > python/ss
+        > python/trojan
+        > python/tuic
+        > python/vless
+        > python/vmess
 #        cp archives/channels/telegramchannels.json ./
 #       Empty configtg and replace desired channels instead. Only activate when needed.
-
+        
+        
     - name: Grab content and update backup
       run: |
         curl https://raw.githubusercontent.com/Surfboardv2ray/TGParse/main/splitted/mixed -o archives/latest_backup/mixed
