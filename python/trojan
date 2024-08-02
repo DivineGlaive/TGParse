@@ -1,6 +1,7 @@
 trojan://05576e70-4fdf-11ef-b743-1239d0255272@104.21.69.44:443/?sni=usa.test3.net&type=ws&host=usa.test3.net&path=/howdy#💘 @v2ray_configs_pool 💘
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@104.17.147.11:443?path=/6b777a91&security=tls&host=jobscareerfortoday.com&type=ws&sni=jobscareerfortoday.com#💘 @v2ray_configs_pool 💘
 trojan://242a3d8eee5e4ed1a6bfa4141d549a25@162.159.152.2:443?path=6b777a91&security=tls&host=jobscareerforlawyers.com&type=ws&sni=jobscareerforlawyers.com#💘 @v2ray_configs_pool 💘
+trojan://4732adfa16c6450bbef87264e41332db@104.16.159.7:443?encryption=none&security=tls&sni=bangladeshipatri.com&fp=chrome&type=ws&host=bangladeshipatri.com&path=/6b777a91#💘 @v2ray_configs_pool 💘
 trojan://669d0ac7b5b64ebbb1abb75d5d540a5c@104.16.159.6:443?path=/6b777a91&security=tls&host=bangladeshipatri.com&type=ws&sni=bangladeshipatri.com#💘 @v2ray_configs_pool 💘
 trojan://79419415-6d77-381b-877c-00328f818667@47.243.130.39:52249/?type=grpc&serviceName=hkvip103&security=tls&sni=hkvip103.qlgq.fun#💘 @v2ray_configs_pool 💘
 trojan://79419415-6d77-381b-877c-00328f818667@47.91.22.254:61235/?type=grpc&serviceName=jpvip101&security=tls&sni=jpvip101.qlgq.fun#💘 @v2ray_configs_pool 💘
@@ -8,11 +9,11 @@ trojan://79419415-6d77-381b-877c-00328f818667@47.91.22.254:61237/?type=grpc&serv
 trojan://79419415-6d77-381b-877c-00328f818667@47.91.22.254:61239/?type=grpc&serviceName=jpvip101&security=tls&sni=jpvip101.qlgq.fun#💘 @v2ray_configs_pool 💘
 trojan://79419415-6d77-381b-877c-00328f818667@47.91.22.254:61288/?type=grpc&serviceName=jpvip101&security=tls&sni=jpvip101.qlgq.fun#💘 @v2ray_configs_pool 💘
 trojan://79419415-6d77-381b-877c-00328f818667@8.210.4.83:41116/?type=grpc&serviceName=hkvip105&security=tls&sni=hkvip105.qlgq.fun#💘 @v2ray_configs_pool 💘
+trojan://NUeBvQHox0BmnHpu@gquuangc27.xyz:443/?type=tcp&security=tls&sni=gquuangc27.xyz#💘 @v2ray_configs_pool 💘
 trojan://NUeBvQHox0BmnHpu@gquuangc27.xyz:443?security=tls&sni=gquuangc27.xyz&type=tcp&headerType=none#💘 @v2ray_configs_pool 💘
 trojan://Watashi_VPN@104.17.147.22:443?path=/&security=tls&host=t-watashi-r-jacket-o-people-jan.watashi-java.ir&fp=chrome&type=ws&sni=t-watashi-r-jacket-o-people-jan.watashi-java.ir#💘 @v2ray_configs_pool 💘
 trojan://Watashi_VPN@104.17.148.22:443?path=/&security=tls&host=t-watashi-r-jacket-o-people-jan.watashi-java.ir&fp=chrome&type=ws&sni=t-watashi-r-jacket-o-people-jan.watashi-java.ir#💘 @v2ray_configs_pool 💘
 trojan://Watashi_VPN@104.18.26.94:8443?path=/&security=tls&host=t-watashi-r-jacket-o-people-jan.watashi-java.ir&fp=chrome&type=ws&sni=t-watashi-r-jacket-o-people-jan.watashi-java.ir#💘 @v2ray_configs_pool 💘
-trojan://[[email protected]](https://politepol.com/cdn-cgi/l/email-protection):443?sni=pplaca05.top#💘 @v2ray_configs_pool 💘
 trojan://auto@104.21.90.210:2053?path=/&security=tls&host=e9464f45.trauma-2r4.pages.dev&type=ws&sni=e9464f45.trauma-2r4.pages.dev#💘 @v2ray_configs_pool 💘
 trojan://bacabac-abca-caba-dabc-cccaaacbbabb@127.0.0.1:1080?security=tls&headerType=none&type=tcp#💘 @v2ray_configs_pool 💘
 trojan://telegram-id-directvpn@13.39.181.72:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#💘 @v2ray_configs_pool 💘
@@ -57,7 +58,3 @@ trojan://telegram-id-privatevpns@54.194.188.215:22222?security=tls&alpn=http/1.1
 trojan://telegram-id-privatevpns@54.220.47.133:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#💘 @v2ray_configs_pool 💘
 trojan://ypDt8RkT7J@207.211.215.169:43118/?type=tcp&security=tls&sni=tpmwf.phooeyunfold.com&alpn=http/1.1&fp=chrome#💘 @v2ray_configs_pool 💘
 trojan://ypDt8RkT7J@207.211.215.169:43118?security=tls&alpn=http/1.1&headerType=none&fp=chrome&type=tcp&sni=tpmwf.phooeyunfold.com#💘 @v2ray_configs_pool 💘
-trojan://ypDt8RkT7J@51.158.217.130:43118?security=tls&headerType=none&type=tcp&sni=toflf.phooeyunfold.com#💘 @v2ray_configs_pool 💘
-trojan://ypDt8RkT7J@51.158.217.195:43118?security=tls&headerType=none&type=tcp&sni=wnbtg.phooeyunfold.com#💘 @v2ray_configs_pool 💘
-trojan://ypDt8RkT7J@51.158.217.197:43118?security=tls&headerType=none&type=tcp&sni=riyyy.phooeyunfold.com#💘 @v2ray_configs_pool 💘
-trojan://ypDt8RkT7J@51.158.217.57:43118?security=tls&headerType=none&type=tcp&sni=tojzy.phooeyunfold.com#💘 @v2ray_configs_pool 💘
