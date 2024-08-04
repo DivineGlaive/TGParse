@@ -1,22 +1,17 @@
 trojan://242a3d8eee5e4ed1a6bfa4141d549a25@162.159.152.2:443/?type=ws&host=jobscareerforlawyers.com&path=6b777a91&security=tls&sni=jobscareerforlawyers.com#😍 @v2ray_configs_pool 😍
 trojan://242a3d8eee5e4ed1a6bfa4141d549a25@162.159.152.2:443?path=6b777a91&security=tls&host=jobscareerforlawyers.com&type=ws&sni=jobscareerforlawyers.com#👉🆔 @v2ray_configs_pool
-trojan://5f27eb67-a1ea-43a3-9a33-8d85d61b9574@52.231.36.138:443/?type=tcp&security=tls&sni=krnode01.oportal.cc#😍 @v2ray_configs_pool 😍
-trojan://5f27eb67-a1ea-43a3-9a33-8d85d61b9574@52.231.36.138:443?security=tls&headerType=none&type=tcp&sni=krnode01.oportal.cc#😍 @v2ray_configs_pool 😍
-trojan://669d0ac7b5b64ebbb1abb75d5d540a5c@104.16.159.6:443?path=/6b777a91&security=tls&host=bangladeshipatri.com&type=ws&sni=bangladeshipatri.com#😍 @v2ray_configs_pool 😍
 trojan://FILTER-SHCAN@188.245.102.221:80?type=tcp&security=none#👉🆔 @v2ray_configs_pool
 trojan://NUeBvQHox0BmnHpu@gnmktnwq58.xyz:443?security=tls&sni=gnmktnwq58.xyz&type=tcp&headerType=none#😍 @v2ray_configs_pool 😍
 trojan://NUeBvQHox0BmnHpu@pplaca05.top:443?security=tls&sni=pplaca05.top&type=tcp&headerType=none#😍 @v2ray_configs_pool 😍
 trojan://OkcBfBMErl@84.47.232.19:50617?mode=gun&security=none&authority=&type=grpc&serviceName=#😍 @v2ray_configs_pool 😍
 trojan://Watashi_VPN@104.17.147.22:443?path=/&security=tls&host=t-watashi-r-jacket-o-people-jan.watashi-java.ir&fp=chrome&type=ws&sni=t-watashi-r-jacket-o-people-jan.watashi-java.ir#👉🆔 @v2ray_configs_pool
+trojan://Watashi_VPN@104.17.148.22:443?path=/&security=tls&host=t-watashi-r-jacket-o-people-jan.watashi-java.ir&fp=chrome&type=ws&sni=t-watashi-r-jacket-o-people-jan.watashi-java.ir#👉🆔 @v2ray_configs_pool
 trojan://Watashi_VPN@104.17.148.22:443?path=/&security=tls&host=t-watashi-r-jacket-o-people-jan.watashi-java.ir&fp=chrome&type=ws&sni=t-watashi-r-jacket-o-people-jan.watashi-java.ir#😍 @v2ray_configs_pool 😍
+trojan://Watashi_VPN@104.17.148.22:443?type=ws&security=tls&path=/&host=t-watashi-r-jacket-o-people-jan.watashi-java.ir&fp=chrome&sni=t-watashi-r-jacket-o-people-jan.watashi-java.ir#👉🆔 @v2ray_configs_pool
 trojan://Watashi_VPN@104.18.26.94:8443?path=/&security=tls&host=t-watashi-r-jacket-o-people-jan.watashi-java.ir&fp=chrome&type=ws&sni=t-watashi-r-jacket-o-people-jan.watashi-java.ir#👉🆔 @v2ray_configs_pool
 trojan://auto@104.21.90.210:2053?path=/&security=tls&host=e9464f45.trauma-2r4.pages.dev&type=ws&sni=e9464f45.trauma-2r4.pages.dev#😍 @v2ray_configs_pool 😍
-trojan://telegram-id-directvpn@13.39.181.35:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#😍 @v2ray_configs_pool 😍
 trojan://telegram-id-directvpn@13.48.199.221:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👉🆔 @v2ray_configs_pool
-trojan://telegram-id-directvpn@13.51.192.72:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#😍 @v2ray_configs_pool 😍
 trojan://telegram-id-directvpn@15.156.12.15:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#😍 @v2ray_configs_pool 😍
-trojan://telegram-id-directvpn@15.236.227.125:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#😍 @v2ray_configs_pool 😍
-trojan://telegram-id-directvpn@16.16.45.183:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#😍 @v2ray_configs_pool 😍
 trojan://telegram-id-directvpn@18.132.170.144:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#😍 @v2ray_configs_pool 😍
 trojan://telegram-id-directvpn@18.170.166.51:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#😍 @v2ray_configs_pool 😍
 trojan://telegram-id-directvpn@18.221.223.235:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👉🆔 @v2ray_configs_pool
@@ -33,10 +28,7 @@ trojan://telegram-id-privatevpns@13.37.36.112:22222?security=tls&alpn=http/1.1&h
 trojan://telegram-id-privatevpns@13.43.33.48:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👉🆔 @v2ray_configs_pool
 trojan://telegram-id-privatevpns@13.48.101.166:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#😍 @v2ray_configs_pool 😍
 trojan://telegram-id-privatevpns@13.60.135.116:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#😍 @v2ray_configs_pool 😍
-trojan://telegram-id-privatevpns@16.16.33.219:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#😍 @v2ray_configs_pool 😍
-trojan://telegram-id-privatevpns@16.171.100.224:22222/?type=tcp&security=tls&sni=trojan.burgerip.co.uk&alpn=http/1.1#😍 @v2ray_configs_pool 😍
 trojan://telegram-id-privatevpns@16.171.100.224:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#😍 @v2ray_configs_pool 😍
-trojan://telegram-id-privatevpns@16.171.100.224:22222?security=tls&sni=trojan.burgerip.co.uk&alpn=http/1.1&allowInsecure=1&type=tcp&headerType=none#😍 @v2ray_configs_pool 😍
 trojan://telegram-id-privatevpns@18.133.102.72:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#😍 @v2ray_configs_pool 😍
 trojan://telegram-id-privatevpns@18.156.151.245:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#😍 @v2ray_configs_pool 😍
 trojan://telegram-id-privatevpns@18.184.169.155:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#😍 @v2ray_configs_pool 😍
@@ -62,12 +54,8 @@ trojan://ypDt8RkT7J@185.180.13.70:43118/?type=tcp&security=tls&sni=earya.phooeyu
 trojan://ypDt8RkT7J@207.211.215.169:43118/?type=tcp&security=tls&sni=tpmwf.phooeyunfold.com&alpn=http/1.1&fp=chrome#😍 @v2ray_configs_pool 😍
 trojan://ypDt8RkT7J@212.102.54.11:43118/?type=tcp&security=tls&sni=tpmrq.phooeyunfold.com&alpn=http/1.1&fp=chrome#😍 @v2ray_configs_pool 😍
 trojan://ypDt8RkT7J@213.186.36.123:43118/?type=tcp&security=tls&sni=wylbe.phooeyunfold.com&alpn=http/1.1&fp=chrome#😍 @v2ray_configs_pool 😍
-trojan://ypDt8RkT7J@51.158.217.130:43118?security=tls&headerType=none&type=tcp&sni=toflf.phooeyunfold.com#😍 @v2ray_configs_pool 😍
 trojan://ypDt8RkT7J@51.158.217.161:43118/?type=tcp&security=tls&sni=tewmk.phooeyunfold.com&alpn=http/1.1&fp=chrome#🌹 @v2ray_configs_pool 🌹
 trojan://ypDt8RkT7J@51.158.217.161:43118/?type=tcp&security=tls&sni=tewmk.phooeyunfold.com&alpn=http/1.1&fp=chrome#😍 @v2ray_configs_pool 😍
-trojan://ypDt8RkT7J@51.158.217.195:43118?security=tls&headerType=none&type=tcp&sni=wnbtg.phooeyunfold.com#😍 @v2ray_configs_pool 😍
-trojan://ypDt8RkT7J@51.158.217.197:43118?security=tls&headerType=none&type=tcp&sni=riyyy.phooeyunfold.com#😍 @v2ray_configs_pool 😍
-trojan://ypDt8RkT7J@51.158.217.57:43118?security=tls&headerType=none&type=tcp&sni=tojzy.phooeyunfold.com#😍 @v2ray_configs_pool 😍
 trojan://ypDt8RkT7J@51.158.217.60:43118/?type=tcp&security=tls&sni=ewxig.phooeyunfold.com&alpn=http/1.1&fp=chrome#😍 @v2ray_configs_pool 😍
 trojan://ypDt8RkT7J@51.159.102.179:43118/?type=tcp&security=tls&sni=tpzmg.phooeyunfold.com&alpn=http/1.1&fp=chrome#😍 @v2ray_configs_pool 😍
 trojan://ypDt8RkT7J@62.210.82.54:43118/?type=tcp&security=tls&sni=wuxgk.phooeyunfold.com&alpn=http/1.1&fp=chrome#😍 @v2ray_configs_pool 😍
