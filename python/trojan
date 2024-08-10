@@ -1,10 +1,3 @@
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@104.17.147.11:443?path=/6b777a91&security=tls&host=jobscareerfortoday.com&type=ws&sni=jobscareerfortoday.com#💕 @v2ray_configs_pool 💕
-trojan://Watashi_VPN@104.18.26.94:8443?path=/&security=tls&host=t-watashi-r-jacket-o-people-jan.watashi-java.ir&fp=chrome&type=ws&sni=t-watashi-r-jacket-o-people-jan.watashi-java.ir#💕 @v2ray_configs_pool 💕
-trojan://telegram-id-directvpn@18.135.178.157:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#💕 @v2ray_configs_pool 💕
-trojan://telegram-id-directvpn@51.20.148.203:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#💕 @v2ray_configs_pool 💕
-trojan://telegram-id-privatevpns@13.50.3.195:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#💕 @v2ray_configs_pool 💕
-trojan://telegram-id-privatevpns@18.197.58.205:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#💕 @v2ray_configs_pool 💕
-trojan://telegram-id-privatevpns@51.44.54.92:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#💕 @v2ray_configs_pool 💕
-trojan://telegram-id-privatevpns@54.217.200.219:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#💕 @v2ray_configs_pool 💕
-trojan://telegram-id-privatevpns@54.72.244.187:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#💕 @v2ray_configs_pool 💕
-trojan://telegram-id-privatevpns@54.73.16.107:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#💕 @v2ray_configs_pool 💕
+trojan://telegram-id-directvpn@3.132.154.180:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#💕 @v2ray_configs_pool 💕
+trojan://telegram-id-privatevpns@15.236.30.130:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#💕 @v2ray_configs_pool 💕
+trojan://telegram-id-privatevpns@35.180.8.153:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#💕 @v2ray_configs_pool 💕
