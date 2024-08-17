@@ -1,13 +1,13 @@
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@104.17.147.11:443?path=/6b777a91&security=tls&host=jobscareerfortoday.com&type=ws&sni=jobscareerfortoday.com#[🇨🇦]t.me/ConfigsHub
-trojan://559c3b5f-3dd1-47e4-94ad-017cb392a7ba@162.159.130.234:443?path=/path/Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config&security=tls&host=de1.trojanvpn.dE&type=ws&sni=de1.trojanvpn.de#[🇨🇦]t.me/ConfigsHub
-trojan://559c3b5f-3dd1-47e4-94ad-017cb392a7ba@162.159.130.234:443?path=/path/Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config&security=tls&host=de1.trojanvpn.dE&type=ws&sni=de1.trojanvpn.de#🆔 @v2ray_configs_pool
-trojan://669d0ac7b5b64ebbb1abb75d5d540a5c@104.16.159.6:443?path=/6b777a91&security=tls&host=bangladeshipatri.com&type=ws&sni=bangladeshipatri.com#[🇨🇦]t.me/ConfigsHub
-trojan://669d0ac7b5b64ebbb1abb75d5d540a5c@104.16.159.6:443?path=/6b777a91&security=tls&host=bangladeshipatri.com&type=ws&sni=bangladeshipatri.com#🆔 @v2ray_configs_pool
-trojan://Filter-Shcan@167.235.204.76:2087?security=none&headerType=none&type=tcp#[🇩🇪]t.me/ConfigsHub
-trojan://Filter-Shcan@167.235.204.76:2087?security=none&headerType=none&type=tcp#🆔 @v2ray_configs_pool
-trojan://Watashi_VPN@104.18.26.94:8443?path=/&security=tls&host=t-watashi-r-jacket-o-people-jan.watashi-java.ir&fp=chrome&type=ws&sni=t-watashi-r-jacket-o-people-jan.watashi-java.ir#[🇨🇦]t.me/ConfigsHub
-trojan://telegram-id-directvpn@63.34.187.217:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇮🇪]t.me/ConfigsHub
-trojan://telegram-id-privatevpns@18.130.190.255:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇬🇧]t.me/ConfigsHub
-trojan://telegram-id-privatevpns@34.243.68.216:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇮🇪]t.me/ConfigsHub
-trojan://telegram-id-privatevpns@34.243.68.216:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🆔 @v2ray_configs_pool
-trojan://telegram-id-privatevpns@35.176.191.36:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇬🇧]t.me/ConfigsHub
+trojan://86cceddb-c08a-3ffb-a7f0-cf6ab53739a7@freefhc01.jd0001.top:15734?security=tls&sni=freefhc01.jd0001.top&type=grpc&serviceName=freefhc01#美国 免费节点01
+trojan://86cceddb-c08a-3ffb-a7f0-cf6ab53739a7@freejp01.jd0001.top:37578?security=tls&sni=freejp01.jd0001.top&type=grpc&serviceName=freejp01#日本 免费节点01
+trojan://86cceddb-c08a-3ffb-a7f0-cf6ab53739a7@freesg01.jd0001.top:13498?security=tls&sni=freesg01.jd0001.top&type=grpc&serviceName=freesg01#新加坡 免费节点01
+trojan://e8012565-5b9f-373f-b1eb-e2445711e65c@freefhc01.jd0001.top:17644?security=tls&sni=freefhc01.jd0001.top&type=grpc&serviceName=freefhc01#凤凰城 免费节点01
+trojan://e8012565-5b9f-373f-b1eb-e2445711e65c@freehr01.jd0001.top:15055?security=tls&sni=freehr01.jd0001.top&type=grpc&serviceName=freehr01#韩国 免费节点01
+trojan://e8012565-5b9f-373f-b1eb-e2445711e65c@freejp01.jd0001.top:34675?security=tls&sni=freejp01.jd0001.top&type=grpc&serviceName=freejp01#日本 免费节点01
+trojan://e8012565-5b9f-373f-b1eb-e2445711e65c@freejp03.jd0001.top:17305?security=tls&sni=freejp03.jd0001.top&type=grpc&serviceName=freejp03#日本 免费节点03
+trojan://telegram-id-directvpn@18.119.63.91:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇺🇸]t.me/ConfigsHub
+trojan://telegram-id-directvpn@3.18.141.45:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇺🇸]t.me/ConfigsHub
+trojan://telegram-id-directvpn@3.18.141.45:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🆔 @v2ray_configs_pool
+trojan://telegram-id-privatevpns@13.38.142.214:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇫🇷]t.me/ConfigsHub
+trojan://telegram-id-privatevpns@13.38.142.214:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🆔 @v2ray_configs_pool
+trojan://telegram-id-privatevpns@3.74.200.180:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇩🇪]t.me/ConfigsHub
