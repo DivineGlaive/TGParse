@@ -1,13 +1,9 @@
-trojan://86cceddb-c08a-3ffb-a7f0-cf6ab53739a7@freefhc01.jd0001.top:15734?security=tls&sni=freefhc01.jd0001.top&type=grpc&serviceName=freefhc01#美国 免费节点01
-trojan://86cceddb-c08a-3ffb-a7f0-cf6ab53739a7@freejp01.jd0001.top:37578?security=tls&sni=freejp01.jd0001.top&type=grpc&serviceName=freejp01#日本 免费节点01
-trojan://86cceddb-c08a-3ffb-a7f0-cf6ab53739a7@freesg01.jd0001.top:13498?security=tls&sni=freesg01.jd0001.top&type=grpc&serviceName=freesg01#新加坡 免费节点01
-trojan://e8012565-5b9f-373f-b1eb-e2445711e65c@freefhc01.jd0001.top:17644?security=tls&sni=freefhc01.jd0001.top&type=grpc&serviceName=freefhc01#凤凰城 免费节点01
-trojan://e8012565-5b9f-373f-b1eb-e2445711e65c@freehr01.jd0001.top:15055?security=tls&sni=freehr01.jd0001.top&type=grpc&serviceName=freehr01#韩国 免费节点01
-trojan://e8012565-5b9f-373f-b1eb-e2445711e65c@freejp01.jd0001.top:34675?security=tls&sni=freejp01.jd0001.top&type=grpc&serviceName=freejp01#日本 免费节点01
-trojan://e8012565-5b9f-373f-b1eb-e2445711e65c@freejp03.jd0001.top:17305?security=tls&sni=freejp03.jd0001.top&type=grpc&serviceName=freejp03#日本 免费节点03
-trojan://telegram-id-directvpn@18.119.63.91:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇺🇸]t.me/ConfigsHub
-trojan://telegram-id-directvpn@3.18.141.45:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇺🇸]t.me/ConfigsHub
-trojan://telegram-id-directvpn@3.18.141.45:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🆔 @v2ray_configs_pool
-trojan://telegram-id-privatevpns@13.38.142.214:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇫🇷]t.me/ConfigsHub
-trojan://telegram-id-privatevpns@13.38.142.214:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🆔 @v2ray_configs_pool
-trojan://telegram-id-privatevpns@3.74.200.180:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇩🇪]t.me/ConfigsHub
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@104.17.147.11:443?path=/6b777a91&security=tls&host=jobscareerfortoday.com&type=ws&sni=jobscareerfortoday.com#[🇨🇦]t.me/ConfigsHub
+trojan://242a3d8eee5e4ed1a6bfa4141d549a25@162.159.129.129:443?path=/us6&security=tls&host=fastxv.pages.dev&type=ws&sni=pages.dev#[🇨🇦]t.me/ConfigsHub
+trojan://242a3d8eee5e4ed1a6bfa4141d549a25@162.159.129.129:443?path=/us6&security=tls&host=fastxv.pages.dev&type=ws&sni=pages.dev#🆔 @v2ray_configs_pool
+trojan://auto@104.20.19.168:2083?path=/&security=tls&host=e9464f45.trauma-2r4.pages.dev&type=ws&sni=e9464f45.trauma-2r4.pages.dev#[🇨🇦]t.me/ConfigsHub
+trojan://auto@162.159.135.232:8443?path=/&security=tls&host=e9464f45.trauma-2r4.pages.dev&type=ws&sni=e9464f45.trauma-2r4.pages.dev#[🇨🇦]t.me/ConfigsHub
+trojan://telegram-id-directvpn@3.123.54.60:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇩🇪]t.me/ConfigsHub
+trojan://telegram-id-directvpn@3.75.111.206:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇩🇪]t.me/ConfigsHub
+trojan://telegram-id-privatevpns@176.34.182.236:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇮🇪]t.me/ConfigsHub
+trojan://telegram-id-privatevpns@52.49.152.140:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇮🇪]t.me/ConfigsHub
