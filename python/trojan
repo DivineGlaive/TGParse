@@ -1,5 +1,6 @@
-trojan://telegram-id-directvpn@13.60.159.110:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇸🇪]t.me/ConfigsHub
-trojan://telegram-id-directvpn@18.194.229.231:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇩🇪]t.me/ConfigsHub
-trojan://telegram-id-directvpn@3.74.237.153:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇩🇪]t.me/ConfigsHub
-trojan://telegram-id-privatevpns@52.19.200.65:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇮🇪]t.me/ConfigsHub
-trojan://telegram-id-privatevpns@54.72.212.18:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇮🇪]t.me/ConfigsHub
+trojan://b4694080-5f4b-11ef-a38e-1239d0255272@www.speedtest.net:443/?sni=uk1.test3.net&type=ws&host=uk1.test3.net&path=/howdy#[🇨🇦]t.me/ConfigsHub
+trojan://b4694080-5f4b-11ef-a38e-1239d0255272@www.speedtest.net:443/?sni=uk1.test3.net&type=ws&host=uk1.test3.net&path=/howdy#👉🆔 @v2ray_configs_pool
+trojan://telegram-id-directvpn@15.222.56.132:22222/?type=tcp&security=tls&sni=trojan.burgerip.co.uk&allowInsecure=1#[🇨🇦]t.me/ConfigsHub
+trojan://telegram-id-privatevpns@18.169.155.241:22222/?type=tcp&security=tls&sni=trojan.burgerip.co.uk&allowInsecure=1#[🇬🇧]t.me/ConfigsHub
+trojan://telegram-id-privatevpns@18.192.148.249:22222/?type=tcp&security=tls&sni=trojan.burgerip.co.uk&allowInsecure=1#[🇩🇪]t.me/ConfigsHub
+trojan://telegram-id-privatevpns@35.156.243.210:22222/?type=tcp&security=tls&sni=trojan.burgerip.co.uk&allowInsecure=1#[🇩🇪]t.me/ConfigsHub
