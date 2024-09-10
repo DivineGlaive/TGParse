@@ -1,7 +1,8 @@
-trojan://1dfba761-c1e0-422e-98b6-062da56afb53@146.56.191.191:443?security=tls&sni=jkrf1.969799.xyz#[🏁]t.me/ConfigsHub
-trojan://d2126a69-7ff4-4ecf-918a-33af36dce67b@162.251.82.187:8443/?type=splithttp&security=tls&sni=wF.nAfTi.gGff.Net&alpn=http/1.1&fp=chrome#[🇺🇸]t.me/ConfigsHub
-trojan://telegram-id-directvpn@3.138.43.249:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇺🇸]t.me/ConfigsHub
-trojan://telegram-id-directvpn@3.143.140.129:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇺🇸]t.me/ConfigsHub
-trojan://telegram-id-privatevpns@13.36.132.185:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇫🇷]t.me/ConfigsHub
-trojan://telegram-id-privatevpns@13.48.247.240:22222?security=tls&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇸🇪]t.me/ConfigsHub
-trojan://telegram-id-privatevpns@3.74.105.227:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇩🇪]t.me/ConfigsHub
+trojan://auto@188.114.99.81:443?security=tls&type=ws&sni=mazq100za43.962dael.workers.dev&host=mazq100za43.962dael.workers.dev#[🇺🇸]t.me/ConfigsHub
+trojan://telegram-id-directvpn@13.53.81.26:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇸🇪]t.me/ConfigsHub
+trojan://telegram-id-directvpn@16.16.133.196:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇸🇪]t.me/ConfigsHub
+trojan://telegram-id-directvpn@18.199.10.138:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇩🇪]t.me/ConfigsHub
+trojan://telegram-id-directvpn@18.199.217.111:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇩🇪]t.me/ConfigsHub
+trojan://telegram-id-privatevpns@13.41.13.173:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇬🇧]t.me/ConfigsHub
+trojan://telegram-id-privatevpns@176.34.118.216:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇮🇪]t.me/ConfigsHub
+trojan://telegram-id-privatevpns@52.51.203.129:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇮🇪]t.me/ConfigsHub
