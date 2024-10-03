@@ -1,5 +1,3 @@
-trojan://CMLiu@43.153.80.208:443?sni=aliorg.filegear-sg.me#[🇺🇸]t.me/ConfigsHub
-trojan://telegram-id-directvpn@18.197.193.67:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇩🇪]t.me/ConfigsHub
-trojan://telegram-id-directvpn@52.59.28.61:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇩🇪]t.me/ConfigsHub
-trojan://telegram-id-privatevpns@46.137.10.128:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇮🇪]t.me/ConfigsHub
-trojan://telegram-id-privatevpns@54.194.190.185:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇮🇪]t.me/ConfigsHub
+trojan://telegram-id-directvpn@15.188.131.196:22222/?type=tcp&security=tls&sni=trojan.burgerip.co.uk&allowInsecure=1#[🇫🇷]t.me/ConfigsHub
+trojan://telegram-id-privatevpns@13.49.249.120:22222/?type=tcp&security=tls&sni=trojan.burgerip.co.uk&allowInsecure=1#[🇸🇪]t.me/ConfigsHub
+trojan://telegram-id-privatevpns@15.236.57.172:22222/?type=tcp&security=tls&sni=trojan.burgerip.co.uk&allowInsecure=1#[🇫🇷]t.me/ConfigsHub
