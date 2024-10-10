@@ -3,7 +3,3 @@ trojan://TELEGRAM-Daily-Configs@cis.visa.com:2053?security=tls&sni=kanale-daily-
 trojan://TELEGRAM-Daily-Configs@www.visa.com.mt:8443?security=tls&sni=kanale-daily-configs.blackoutconnection.ir&fp=chrome&allowInsecure=1&type=ws&host=kanale-daily-configs.blackoutconnection.ir&path=/TELEGRAM:@Daily_Configs?ed=2560#[🇺🇸]t.me/ConfigsHub
 trojan://TELEGRAM-Daily-Configs@www.wto.org:8443?security=tls&sni=kanale-daily-configs.blackoutconnection.ir&fp=chrome&allowInsecure=1&type=ws&host=kanale-daily-configs.blackoutconnection.ir&path=/TELEGRAM:@Daily_Configs?ed=2560#[🇺🇸]t.me/ConfigsHub
 trojan://TELEGRAM-Daily-Configs@zula.ir:443?security=tls&sni=kanale-daily-configs.blackoutconnection.ir&fp=chrome&allowInsecure=1&type=ws&host=kanale-daily-configs.blackoutconnection.ir&path=/TELEGRAM:@Daily_Configs?ed=2560#[🇨🇦]t.me/ConfigsHub
-trojan://bpb-trojan@172.66.44.141:2083?path=/trMK2zs2naPJSgJ7Pr?ed=2560&security=tls&alpn=h2,http/1.1&host=fb0887ca.bpb-worker-panel-e3c.pages.dev&fp=chrome&type=ws&sni=fB0887ca.BPB-WorkEr-pAnel-e3c.paGes.DeV#[🇨🇦]t.me/ConfigsHub
-trojan://telegram-id-directvpn@52.29.69.96:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇩🇪]t.me/ConfigsHub
-trojan://telegram-id-directvpn@63.176.10.111:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇩🇪]t.me/ConfigsHub
-trojan://telegram-id-privatevpns@54.229.218.86:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇮🇪]t.me/ConfigsHub
