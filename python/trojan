@@ -1,4 +1,6 @@
-trojan://bpb-trojan@104.19.35.14:443?path=/trbo9SGocZQNTqq3Cd/YnBiLnlvdXNlZi5pc2VnYXJvLmNvbQ==&security=tls&alpn=http/1.1&host=bpb-worker-panel1-e4p.pages.dev&fp=chrome&type=ws&sni=BPB-wOrkeR-pANel1-E4P.pageS.DeV#[🇺🇸]t.me/ConfigsHub
-trojan://telegram-id-directvpn@13.36.97.253:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇫🇷]t.me/ConfigsHub
-trojan://telegram-id-directvpn@13.48.247.165:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇸🇪]t.me/ConfigsHub
-trojan://telegram-id-privatevpns@16.16.165.25:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇸🇪]t.me/ConfigsHub
+trojan://auto@104.20.19.168:2083?path=/&security=tls&host=e9464f45.trauma-2r4.pages.dev&type=ws&sni=e9464f45.trauma-2r4.pages.dev#[🇺🇸]t.me/ConfigsHub
+trojan://bpb-trojan@104.17.147.22:2053?path=/trn6lSYIYbgvYGra0u/ZGUucmFkaWNhbGx5LnBybw==&security=tls&alpn=http/1.1&host=bpb-worker-panel1-e4p.pages.dev&type=ws&sni=bPB-worker-PANeL1-e4p.paGes.DeV#[🇺🇸]t.me/ConfigsHub
+trojan://bpb-trojan@172.64.153.235:2053?path=/trEjWhhuRjwiMwSbDN/ZGUucmFkaWNhbGx5LnBybw==&security=tls&alpn=http/1.1&host=bpb-worker-panel1-e4p.pages.dev&type=ws&sni=bpB-worKER-paneL1-e4p.pAGes.dEV#[🇨🇦]t.me/ConfigsHub
+trojan://telegram-id-privatevpns@176.34.117.143:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇮🇪]t.me/ConfigsHub
+trojan://telegram-id-privatevpns@3.10.11.118:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇬🇧]t.me/ConfigsHub
+trojan://telegram-id-privatevpns@3.248.67.104:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇮🇪]t.me/ConfigsHub
