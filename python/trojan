@@ -1,5 +1,7 @@
-trojan://telegram-id-directvpn@13.38.226.37:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇫🇷]t.me/ConfigsHub
-trojan://telegram-id-directvpn@15.237.8.162:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇫🇷]t.me/ConfigsHub
-trojan://telegram-id-directvpn@16.16.168.181:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇸🇪]t.me/ConfigsHub
-trojan://telegram-id-privatevpns@13.51.17.251:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇸🇪]t.me/ConfigsHub
-trojan://telegram-id-privatevpns@3.65.55.21:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇩🇪]t.me/ConfigsHub
+trojan://Cassiusvpn@104.19.32.24:443?path=/telegram-cassiusvpn.pages.dev/?ed=2560&security=tls&alpn=h3&host=a17cabb5-3f13-4056-b0ce-476143491d4b.blackbeautifulman.cloudns.org&fp=chrome&type=ws&sni=a17cabb5-3f13-4056-b0ce-476143491d4b.blackbeautifulman.cloudns.org#[🇺🇸]t.me/ConfigsHub
+trojan://bpb-trojan@104.18.34.21:2053?path=/trEjWhhuRjwiMwSbDN/ZGUucmFkaWNhbGx5LnBybw==&security=tls&alpn=http/1.1&host=bpb-worker-panel1-e4p.pages.dev&fp=chrome&type=ws&sni=bpB-worKER-paneL1-e4p.pAGes.dEV#[🇺🇸]t.me/ConfigsHub
+trojan://bpb-trojan@172.66.44.203:443?path=/trSo3btsDgOHHUM6Nb&security=tls&host=403b3611-99bc-43b7-88d7-26ed5d0825a9-3.pages.dev&type=ws&sni=403b3611-99bC-43b7-88D7-26ED5D0825A9-3.pagES.DEv#[🇨🇦]t.me/ConfigsHub
+trojan://bpb-trojan@188.114.99.208:2053?path=/tr9pU4LSFNK5k8URSo/ZGUucmFkaWNhbGx5LnBybw==&security=tls&alpn=http/1.1&host=bpb-worker-panel1-e4p.pages.dev&type=ws&sni=BPB-worKEr-pANel1-E4p.PAgES.Dev#[🇺🇸]t.me/ConfigsHub
+trojan://telegram-id-privatevpns@18.170.240.139:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇬🇧]t.me/ConfigsHub
+trojan://telegram-id-privatevpns@34.252.56.67:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇮🇪]t.me/ConfigsHub
+trojan://telegram-id-privatevpns@52.50.140.173:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇮🇪]t.me/ConfigsHub
