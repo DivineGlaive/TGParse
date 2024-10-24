@@ -1,6 +1,12 @@
+trojan://telegram-id-directvpn@13.36.3.108:22222/?type=tcp&security=tls&sni=trojan.burgerip.co.uk&allowInsecure=1#[🇫🇷]t.me/ConfigsHub
 trojan://telegram-id-directvpn@52.208.159.171:22222/?type=tcp&security=tls&sni=trojan.burgerip.co.uk&allowInsecure=1#[🇮🇪]t.me/ConfigsHub
 trojan://telegram-id-directvpn@99.80.101.8:22222/?type=tcp&security=tls&sni=trojan.burgerip.co.uk&allowInsecure=1#[🇮🇪]t.me/ConfigsHub
+trojan://telegram-id-directvpn@99.80.101.8:22222?allowInsecure=0&sni=trojan.burgerip.co.uk#[🇮🇪]t.me/ConfigsHub
+trojan://telegram-id-privatevpns@13.51.220.245:22222/?type=tcp&security=tls&sni=trojan.burgerip.co.uk&allowInsecure=1#[🇸🇪]t.me/ConfigsHub
 trojan://telegram-id-privatevpns@18.196.76.204:22222/?type=tcp&security=tls&sni=trojan.burgerip.co.uk&allowInsecure=1#[🇩🇪]t.me/ConfigsHub
 trojan://telegram-id-privatevpns@3.11.27.8:22222/?type=tcp&security=tls&sni=trojan.burgerip.co.uk&allowInsecure=1#[🇬🇧]t.me/ConfigsHub
 trojan://telegram-id-privatevpns@3.9.3.93:22222/?type=tcp&security=tls&sni=trojan.burgerip.co.uk&allowInsecure=1#[🇬🇧]t.me/ConfigsHub
 trojan://telegram-id-privatevpns@35.181.125.130:22222/?type=tcp&security=tls&sni=trojan.burgerip.co.uk&allowInsecure=1#[🇫🇷]t.me/ConfigsHub
+trojan://telegram-id-privatevpns@51.20.22.202:22222/?type=tcp&security=tls&sni=trojan.burgerip.co.uk&allowInsecure=1#[🇸🇪]t.me/ConfigsHub
+trojan://telegram-id-privatevpns@52.28.242.93:22222/?type=tcp&security=tls&sni=trojan.burgerip.co.uk&allowInsecure=1#[🇩🇪]t.me/ConfigsHub
+trojan://telegram-id-privatevpns@99.81.205.218:22222/?type=tcp&security=tls&sni=trojan.burgerip.co.uk&allowInsecure=1#[🇮🇪]t.me/ConfigsHub
