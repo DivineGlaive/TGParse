@@ -1,6 +1,4 @@
 trojan://FLorg@176.97.70.65:8443?security=tls&sni=trojan.tcorg.filegear-sg.me&type=ws&host=trojan.tcorg.filegear-sg.me&path=/?ed=2048&fp=chrome&alpn=http/1.1#[🏁]t.me/ConfigsHub
-trojan://bpb-trojan@172.64.153.235:2053?path=/trEjWhhuRjwiMwSbDN/ZGUucmFkaWNhbGx5LnBybw==&security=tls&alpn=http/1.1&host=bpb-worker-panel1-e4p.pages.dev&fp=chrome&type=ws&sni=bpB-worKER-paneL1-e4p.pAGes.dEV#[🏁]t.me/ConfigsHub
-trojan://telegram-id-directvpn@13.61.80.19:22222?sni=trojan.burgerip.co.uk#[🏁]t.me/ConfigsHub
-trojan://telegram-id-directvpn@3.96.242.102:22222?security=tls&type=tcp&sni=trojan.burgerip.co.uk#[🏁]t.me/ConfigsHub
-trojan://telegram-id-privatevpns@3.255.71.193:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#[🏁]t.me/ConfigsHub
+trojan://auto@104.18.12.229:2053?path=/&security=tls&host=e9464f45.trauma-2r4.pages.dev&type=ws&sni=e9464f45.trauma-2r4.pages.dev#[🏁]t.me/ConfigsHub
+trojan://telegram-id-directvpn@13.61.80.19:22222?allowInsecure=0&sni=trojan.burgerip.co.uk#[🏁]t.me/ConfigsHub
 trojan://telegram-id-privatevpns@35.181.239.0:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🏁]t.me/ConfigsHub
