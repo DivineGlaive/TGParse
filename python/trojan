@@ -1,11 +1,2 @@
-trojan://2e3562a819634de686ade78e434c0963@104.17.147.5:443?path=/6b777a91&security=tls&host=jobscareertoday.com&type=ws&sni=jobscareertoday.com#[🏁]t.me/ConfigsHub
-trojan://Tel-DailyConfigs@104.18.7.21:2053?security=tls&type=ws&sni=kanale-daily-configs.blackoutconnection.ir&host=kanale-daily-configs.blackoutconnection.ir#[🏁]t.me/ConfigsHub
-trojan://a94edb46-0734-4593-a8b5-9cd11ddc57f6@104.18.218.118:443?security=tls&type=ws&sni=5c53ca21.vpn-aryoo.pages.dev&path=/Telegram@Linkvws?ed=2560&host=5c53ca21.vpn-aryoo.pages.dev#[🏁]t.me/ConfigsHub
-trojan://auto@108.162.195.154:443?security=tls&type=ws&sni=trojanfree-76s.pages.dev&path=/trojanfree-76s.pages.dev/?ed=2560&host=trojanfree-76s.pages.dev#[🏁]t.me/ConfigsHub
 trojan://auto@172.67.49.134:443?path=/trojanfree-76s.pages.dev/?ed=2560&security=tls&host=trojanfree-76s.pages.dev&fp=chrome&type=ws&sni=trojanfree-76s.pages.dev#[🏁]t.me/ConfigsHub
-trojan://telegram-id-directvpn@3.74.254.119:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🏁]t.me/ConfigsHub
-trojan://telegram-id-directvpn@51.20.90.73:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🏁]t.me/ConfigsHub
-trojan://telegram-id-directvpn@63.176.157.141:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🏁]t.me/ConfigsHub
-trojan://telegram-id-privatevpns@52.30.51.153:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🏁]t.me/ConfigsHub
-trojan://telegram-id-privatevpns@54.194.59.161:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🏁]t.me/ConfigsHub
-trojan://tg-dns68@162.159.152.228:443?security=tls&type=ws&sni=vip.putata.eu.org&path=/?ed=2560&host=vip.putata.eu.org#[🏁]t.me/ConfigsHub
+trojan://telegram-id-directvpn@3.9.223.123:22222?allowInsecure=0&sni=trojan.burgerip.co.uk#[🏁]t.me/ConfigsHub
