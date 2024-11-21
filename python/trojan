@@ -1,6 +1,4 @@
-trojan://89b3cbba-e6ac-485a-9481-976a0415eab9@23.227.38.208:2053?security=tls&type=ws&sni=bPB-V.pageS.dEV&path=/Telegram@V2ray_Alpha/?ed=2560&host=Bpb-v.PAges.deV#[🏁]t.me/ConfigsHub
-trojan://auto@172.64.35.169:443?security=tls&sni=trojanmz.pages.dev&type=ws&host=trojanmz.pages.dev#[🏁]t.me/ConfigsHub
-trojan://telegram-id-privatevpns@3.9.197.9:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🏁]t.me/ConfigsHub
-trojan://telegram-id-privatevpns@34.247.42.100:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🏁]t.me/ConfigsHub
-trojan://telegram-id-privatevpns@52.47.48.218:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#[🏁]t.me/ConfigsHub
-trojan://telegram-id-privatevpns@63.35.125.126:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🏁]t.me/ConfigsHub
+trojan://51552a7c-a7cf-4182-a0ab-d824e965707e@68.183.46.212:8886?security=tls&headerType=none&fp=chrome&type=tcp#[🏁]t.me/ConfigsHub
+trojan://7c2ba149-2827-4e07-b82a-61b74b76d68b@165.22.54.50:8886?security=tls&headerType=none&fp=chrome&type=tcp#[🏁]t.me/ConfigsHub
+trojan://auto@172.64.35.83:443?security=tls&sni=trojanmz.pages.dev&type=ws&host=trojanmz.pages.dev#[🏁]t.me/ConfigsHub
+trojan://telegram-id-privatevpns@13.39.176.83:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🏁]t.me/ConfigsHub
