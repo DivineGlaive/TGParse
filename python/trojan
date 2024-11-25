@@ -1,5 +1,10 @@
-trojan://Julius@miami.juliusnet.com:443/?type=tcp&security=tls&sni=miami.juliusnet.com#[🏁]t.me/ConfigsHub
-trojan://telegram-id-directvpn@16.170.129.178:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#[🏁]t.me/ConfigsHub
-trojan://telegram-id-privatevpns@13.42.245.236:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#[🏁]t.me/ConfigsHub
-trojan://telegram-id-privatevpns@16.170.67.252:22222?security=tls&sni=trojan.burgerip.co.uk&alpn=http/1.1&type=tcp#[🏁]t.me/ConfigsHub
-trojan://telegram-id-privatevpns@35.179.190.208:22222?security=tls&sni=trojan.burgerip.co.uk&alpn=http/1.1&type=tcp#[🏁]t.me/ConfigsHub
+trojan://bpb-trojan@173.245.58.39:443?path=/tr?ed&security=tls&host=fcspring.ggff.net&type=ws&sni=fcspring.ggff.net#[🏁]t.me/ConfigsHub
+trojan://bpb-trojan@188.114.98.138:2053?security=tls&sni=G1-21N.paGEs.dev&type=ws&host=g1-21n.pages.dev&path=/traV0kgCnzWDCx27E2/ZGUucmFkaWNhbGx5LnBybw==&fp=chrome&alpn=http/1.1#[🏁]t.me/ConfigsHub
+trojan://bpb-trojan@188.114.98.253:443?path=/tr?ed&security=tls&host=fcspring.ggff.net&type=ws&sni=fcspring.ggff.net#[🏁]t.me/ConfigsHub
+trojan://telegram-id-directvpn@13.36.197.109:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🏁]t.me/ConfigsHub
+trojan://telegram-id-directvpn@13.60.113.195:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🏁]t.me/ConfigsHub
+trojan://telegram-id-directvpn@13.61.133.104:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🏁]t.me/ConfigsHub
+trojan://telegram-id-directvpn@15.237.235.15:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🏁]t.me/ConfigsHub
+trojan://telegram-id-privatevpns@13.61.76.115:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🏁]t.me/ConfigsHub
+trojan://telegram-id-privatevpns@16.171.118.101:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🏁]t.me/ConfigsHub
+trojan://telegram-id-privatevpns@18.185.70.228:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🏁]t.me/ConfigsHub
