@@ -1,5 +1,5 @@
 trojan://Julius@miami.juliusnet.com:443/?type=tcp&security=tls&sni=miami.juliusnet.com#[🏁]t.me/ConfigsHub
-trojan://b9e82117-ed3a-4098-8153-100ca12aa523@104.17.228.60:443?security=tls&sni=hdfy5persiaserverc1.afsharidempire.uk&type=grpc#[🏁]t.me/ConfigsHub
 trojan://telegram-id-directvpn@16.170.129.178:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#[🏁]t.me/ConfigsHub
 trojan://telegram-id-privatevpns@13.42.245.236:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#[🏁]t.me/ConfigsHub
-trojan://telegram-id-privatevpns@52.212.133.245:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#[🏁]t.me/ConfigsHub
+trojan://telegram-id-privatevpns@16.170.67.252:22222?security=tls&sni=trojan.burgerip.co.uk&alpn=http/1.1&type=tcp#[🏁]t.me/ConfigsHub
+trojan://telegram-id-privatevpns@35.179.190.208:22222?security=tls&sni=trojan.burgerip.co.uk&alpn=http/1.1&type=tcp#[🏁]t.me/ConfigsHub
