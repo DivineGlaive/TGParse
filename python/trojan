@@ -1,3 +1,8 @@
+trojan://3542952f-fabc-4556-b68b-dcd4e21c3944@95.164.117.128:8880?security=reality&headerType=none&type=tcp&sni=google.com#[🏁]t.me/ConfigsHub
+trojan://6285e567-0c25-4ce2-a2fa-80517c1345e1@sky.rethinkdns.com:2096?security=tls&type=ws&sni=1223-9ux.pages.dev&path=/Telegram@V2ray_Alpha/?ed=2048&host=1223-9ux.pages.dev#[🏁]t.me/ConfigsHub
+trojan://blue2024@162.159.135.98:443?type=ws&sni=hb.lii2010.us.kg&host=hb.lii2010.us.kg#[🏁]t.me/ConfigsHub
 trojan://blue2024@173.245.49.251:443?security=tls&sni=hb.lii2010.us.kg&type=ws&host=hb.lii2010.us.kg&path=/#[🏁]t.me/ConfigsHub
-trojan://telegram-id-directvpn@13.48.232.67:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#[🏁]t.me/ConfigsHub
-trojan://telegram-id-privatevpns@18.133.41.102:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#[🏁]t.me/ConfigsHub
+trojan://blue2024@185.170.166.39:443?sni=ta.promote.icu#[🏁]t.me/ConfigsHub
+trojan://blue2024@198.41.192.0:443?security=tls&sni=hb.lii2010.us.kg&type=tcp&allowInsecure=1#[🏁]t.me/ConfigsHub
+trojan://bpb-trojan@www.vpslook.com:443?path=/tr?ed=2560&security=tls&alpn=h3&host=bpb-hd.aaronchin.xyz&fp=chrome&type=ws&sni=bpb-hd.aaronchin.xyz#[🏁]t.me/ConfigsHub
+trojan://bpb-trojan@www.vpslook.com:443?security=tls&sni=bpb-hd.aaronchin.xyz&alpn=h3&fp=chrome&type=ws&host=bpb-hd.aaronchin.xyz&path=/tr?ed=2560#[🏁]t.me/ConfigsHub
