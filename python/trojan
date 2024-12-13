@@ -1,8 +1,6 @@
-trojan://71409d3e488548e8bb076d229778f008@104.17.147.77:443?path=6b777a91&security=tls&host=bangladeshipatri.com&type=ws&sni=bangladeshipatri.com#[🇨🇦]t.me/ConfigsHub
+trojan://aa6ddd2f-d1cf-4a52-ba1b-2640c41a7856@18.163.113.200:45476?sni=hk12.bilibili.com#[🏁]t.me/ConfigsHub
+trojan://aa6ddd2f-d1cf-4a52-ba1b-2640c41a7856@1906e95f0a4e34cca3d5618e3498505d.v1.cac.node-is.green:48539?allowInsecure=1&sni=hk12.bilibili.com#[🏁]t.me/ConfigsHub
+trojan://aa6ddd2f-d1cf-4a52-ba1b-2640c41a7856@eb0aa4fcce49b0399bc0f109cd6a0296.v1.cac.node-is.green:49089?allowInsecure=1&sni=jp12.bilibili.com#[🏁]t.me/ConfigsHub
 trojan://blue2024@104.18.183.150:443?path=/?ed=2560&security=tls&host=ta.promote.icu&type=ws&sni=ta.promote.icu#[🇨🇦]t.me/ConfigsHub
 trojan://f0eb8c92ce8946aaba856569cff1a16b@134.195.196.138:443?security=tls&headerType=none&type=tcp&sni=avianrecruit.com#[🇨🇦]t.me/ConfigsHub
-trojan://f0eb8c92ce8946aaba856569cff1a16b@sherasheba.com:443?security=tls&headerType=none&type=tcp#[🇺🇸]t.me/ConfigsHub
-trojan://telegram-id-directvpn@18.153.198.134:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇩🇪]t.me/ConfigsHub
-trojan://telegram-id-directvpn@18.195.85.65:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇩🇪]t.me/ConfigsHub
-trojan://telegram-id-privatevpns@34.254.18.218:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇮🇪]t.me/ConfigsHub
-trojan://telegram-id-privatevpns@54.246.81.98:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇮🇪]t.me/ConfigsHub
+trojan://f0eb8c92ce8946aaba856569cff1a16b@134.195.196.138:443?security=tls&sni=avianrecruit.com&type=tcp#[🇨🇦]t.me/ConfigsHub
