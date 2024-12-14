@@ -1,9 +1,6 @@
-trojan://aa6ddd2f-d1cf-4a52-ba1b-2640c41a7856@18.162.133.137:45181?sni=de1.bilibili.com#[🏁]t.me/ConfigsHub
-trojan://aa6ddd2f-d1cf-4a52-ba1b-2640c41a7856@18.167.59.36:47249?security=tls&sni=ca1.bilibili.com#[🏁]t.me/ConfigsHub
-trojan://blue2024@154.194.12.78:443?security=tls&sni=b.promote.icu&type=ws&host=tb.promote.icu&path=/?ed#[🏁]t.me/ConfigsHub
-trojan://blue2024@5.182.85.129:443?security=tls&sni=b.promote.icu&type=ws&host=tb.promote.icu&path=/?ed#[🇷🇺]t.me/ConfigsHub
-trojan://telegram-id-directvpn@13.61.166.111:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇸🇪]t.me/ConfigsHub
-trojan://telegram-id-directvpn@13.61.63.255:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇸🇪]t.me/ConfigsHub
-trojan://telegram-id-directvpn@52.47.213.177:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇫🇷]t.me/ConfigsHub
-trojan://telegram-id-privatevpns@16.16.155.71:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇸🇪]t.me/ConfigsHub
-trojan://telegram-id-privatevpns@51.21.123.83:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇸🇪]t.me/ConfigsHub
+trojan://aa6ddd2f-d1cf-4a52-ba1b-2640c41a7856@43.198.97.54:45181?security=tls&sni=de1.bilibili.com#[🏁]t.me/ConfigsHub
+trojan://blue2024@198.62.62.156:443?security=tls&sni=tc.promote.icu&type=ws&host=tc.promote.icu&path=/?ed=2560#[🇺🇸]t.me/ConfigsHub
+trojan://telegram-id-privatevpns@16.16.155.71:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#[🇸🇪]t.me/ConfigsHub
+trojan://telegram-id-privatevpns@3.8.26.6:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇬🇧]t.me/ConfigsHub
+trojan://telegram-id-privatevpns@54.246.42.178:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇮🇪]t.me/ConfigsHub
+trojan://telegram-id-privatevpns@54.73.14.230:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇮🇪]t.me/ConfigsHub
